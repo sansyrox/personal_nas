@@ -1,0 +1,10 @@
+[Unit]
+Description=Python Server for SUSI Linux
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3  ~/server_interface/server-back-end/app.py
+
+[Install]
+WantedBy=multi-user.target
