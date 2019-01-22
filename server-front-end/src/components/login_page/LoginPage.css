@@ -1,0 +1,28 @@
+.loginClass {
+    height: 100%;
+    /* display: inline-block; */
+    /* width: 80%; */
+    margin-top: 10%;
+    margin-bottom: 10%;
+    height: 100%;
+    
+}
+
+.left {
+    background-color: #66cdcc;
+    color: #ffffff;
+    height: 100%;
+
+    /* padding-top: 12px; */
+    /* padding-bottom: 12px; */
+    /* width: 10rem; */
+    /* margin-inline-start: 10%; */
+}
+
+.right {
+    background-color: #333367;
+    color: #ffffff;
+    /* width: 10rem; */
+    height: 100%;
+
+}
