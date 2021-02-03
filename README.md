@@ -1,7 +1,7 @@
 
 # PERSONAL NAS
 
-After checking out a lot of personal NAS severs. I thought I could make a better NAS server myself, and with this thought I saw my old laptop. So I decided to make this awesome personal SAAS NAS server that can run on any old linux pc, which has a UI to simplify the usage for everyone. 
+After checking out a lot of personal NAS servers. I thought I could make a better NAS server myself, and with this thought I saw my old laptop. So I decided to make this awesome personal SAAS NAS server that can run on any old linux pc, which has a UI to simplify the usage for everyone. 
 
 ---
 
